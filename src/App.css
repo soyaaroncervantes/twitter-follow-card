@@ -1,0 +1,6 @@
+.tw-followCard-list {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    background-color: #181818;
+}
